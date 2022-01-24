@@ -1,0 +1,78 @@
+.retangulo-lista h1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+
+color: #125F27;
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 30px;
+top: 20px;
+
+}
+
+.lista-linha{
+    position: absolute;
+    width: 519px;
+    height: 1px;
+    left: 30px;
+    top: 45px;
+
+background: #125F27;
+}
+
+.lista-alfabeto{
+    position: absolute;
+    width: 964px;
+    height: 41px;
+    left: 30px;
+    top: 60px;
+
+background: rgba(0, 107, 64, 0.1);
+border-radius: 0px;
+}
+
+.letra-alfabeto{
+    
+    position: absolute;
+    width: 12px;
+    height: 19px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.letra-alfabeto td{
+    
+    padding: 13.5px;
+}
+
+
+.lista-exames{
+    
+    position: absolute;
+    width: 1024px;
+    height: 600px;
+    left: 160px;
+    top: 150px;
+    background: rgb(245, 245, 245);
+    border-radius: 5px;
+}
+a, a:hover {
+    text-decoration: none;
+    color: unset;
+  }

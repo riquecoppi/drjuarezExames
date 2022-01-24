@@ -1,0 +1,14 @@
+
+
+
+.menu-navbar{
+    background-color: var(--color-primary);
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-navbar h1 {
+    font-size: 24px;
+    margin: 0;
+    font-weight: 700;
+}

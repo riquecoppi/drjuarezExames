@@ -1,0 +1,33 @@
+.default-exame h3{
+    position: relative;
+    width: 429px;
+    height: 19px;
+    left: 35px;
+    top: 145px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.linha-exame{
+    position: relative;
+width: 953px;
+height: 1px;
+left: 35px;
+top: 141px;
+
+background: #CCCCCC;
+border-radius: 0px;
+
+
+
+
+
+}
